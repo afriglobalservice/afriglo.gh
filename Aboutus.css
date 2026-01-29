@@ -17,3 +17,50 @@ font {
 	color:black;
 	font-style: bold;
 }
+h1 {
+	font-family:"Segoe UI", Tahoma, Arial, sans-serif;
+	color:#003366; 
+}
+body {
+            margin: 0;
+            font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+            background-color: #f4f6f9;
+            color: white;
+            line-height: 1.6;
+        }
+banner h1 {
+            margin-bottom: 10px;
+            font-size: 40px;
+        }
+
+        .container {
+            width: 85%;
+            max-width: 1100px;
+            margin: auto;
+            padding: 40px 0;
+        }
+
+        .section {
+            background: white;
+            padding: 30px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+		}
+		.section h2 {
+            color: #003366;
+            margin-bottom: 15px;
+        }
+
+        .values {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .value-box {
+            background: #eef4ff;
+            padding: 20px;
+            border-left: 5px solid #0059b3;
+            border-radius: 5px;
+        }
+        
