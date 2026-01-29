@@ -13,7 +13,16 @@ body {
 }
 font {
 	font-family: "times new roman",serif;
-	font-size:30px;
+	font-size:50px;
 	color:black;
 	font-style: bold;
+}
+h1 {
+	font-family:"Segoe UI", Tahoma, Arial, sans-serif;
+	color:#003366; 
+}
+h2 {
+	font-family:"Segoe UI", Tahoma, Arial, sans-serif;
+	color:#003366; 
+	text-align= left;
 }
